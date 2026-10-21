@@ -39,4 +39,4 @@ while life > 0:
         print ("Tu ne peux pas faire ça !")
         continue
 
-print (f"\n----Game over----\n\n   Score : {score} ")
+print (f"\n----Game over----\n\n   Score : {score} \n")
