@@ -1,6 +1,8 @@
-i = 1
-while 0 < i < 4 :
-    print (i)
-    i += 1
+i = 2
 
-print ("soleil")
+print ("Franklin sait compter deux par 2")
+while i < 12 :
+    print (i)
+    i += 2
+
+print ("Bravo Franklin !")
