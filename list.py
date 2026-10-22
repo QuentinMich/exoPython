@@ -1,5 +1,6 @@
-fruits = ["banane","mangue"]
+i = 1
+while 0 < i < 4 :
+    print (i)
+    i += 1
 
-fruits.append( input("Ajoute ton fruit coco ") )
-
-print (f"Notre nouveau tableau de fruit est \n {fruits} \n Nous avons {len(fruits)} fruits dans notre panier." )
+print ("soleil")
